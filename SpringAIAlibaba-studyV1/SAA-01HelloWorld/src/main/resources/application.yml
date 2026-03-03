@@ -1,3 +1,12 @@
+server:
+  port: 6688
+  servlet:
+    encoding:
+      charset: UTF-8
+      force: true
+      enabled: true
+
 spring:
   application:
     name: SAA-01HelloWorld
+
